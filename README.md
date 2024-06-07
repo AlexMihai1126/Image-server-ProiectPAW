@@ -1,4 +1,4 @@
-##Serverul de imagini pentru proiectul de la PAW (Proiectarea aplicatiilor web)
+## Serverul de imagini pentru proiectul de la PAW (Proiectarea aplicatiilor web)
 
 Se instaleaza cu comanda "npm install" dependintele (necesita Node.JS instalat local)
 Se porneste cu comanda "node index.js", dupa ce apare mesajul cu adresa serverului, acesta este pregatit.
